@@ -1,0 +1,13 @@
+server:
+  port: 8001
+
+spring:
+  application:
+    name: auth-service
+  data:
+    redis:
+      host: localhost
+      port: 6379
+
+session:
+  timeout: 3600  # 세션 만료시간 (초) 
