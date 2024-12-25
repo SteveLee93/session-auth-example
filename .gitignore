@@ -1,0 +1,22 @@
+# Maven build directories
+target/
+**/target/
+
+# IDE files
+.idea/
+*.iml
+
+# Compiled files
+*.class
+
+# Log files
+*.log
+
+# Build files
+build/
+out/
+
+# Maven wrapper
+.mvn/
+mvnw
+mvnw.cmd
