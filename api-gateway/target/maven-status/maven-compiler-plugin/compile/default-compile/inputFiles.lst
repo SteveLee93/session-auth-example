@@ -1,1 +1,4 @@
-C:\SpringStudy\session-auth-example\api-gateway\src\main\java\com\example\gateway\GatewayApplication.java
+C:\SpringStudy\session-auth-example\api-gateway\src\main\java\com\example\gateway\config\CorsConfig.java
+C:\SpringStudy\session-auth-example\api-gateway\src\main\java\com\example\gateway\ApiGatewayApplication.java
+C:\SpringStudy\session-auth-example\api-gateway\src\main\java\com\example\gateway\config\GatewayConfig.java
+C:\SpringStudy\session-auth-example\api-gateway\src\main\java\com\example\gateway\filter\SessionFilter.java

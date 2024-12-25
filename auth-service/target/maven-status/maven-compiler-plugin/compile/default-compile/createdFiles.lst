@@ -1,1 +1,12 @@
+com\example\auth\dto\UserDto.class
+com\example\auth\dto\LoginResponse.class
+com\example\auth\config\RedisConfig.class
+com\example\auth\service\SessionService.class
+com\example\auth\config\RestTemplateConfig.class
+com\example\auth\client\UserServiceClient.class
+com\example\auth\dto\LoginResponse$LoginResponseBuilder.class
+com\example\auth\dto\LoginRequest.class
+com\example\auth\dto\UserValidationRequest.class
+com\example\auth\service\AuthService.class
+com\example\auth\controller\AuthController.class
 com\example\auth\AuthServiceApplication.class
